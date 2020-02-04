@@ -7,7 +7,7 @@
 //importando o módulo testcafe
 import {Selector} from 'testcafe';
 
-//adicionando um dipositivo eletrico
+//adicionando um acessório
 fixture `Getting Started`
     //O teste será criado para a página abaixo
     .page `http://devexpress.github.io/testcafe/example`
